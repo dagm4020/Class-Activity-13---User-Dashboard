@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894423350084",
+    "project_id": "user-dashboard-761fb",
+    "storage_bucket": "user-dashboard-761fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894423350084:android:449911d9331ef04375f511",
+        "android_client_info": {
+          "package_name": "com.example.user_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt5yULtAci8jk7i4ctGJatHwWFeYZEw84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
